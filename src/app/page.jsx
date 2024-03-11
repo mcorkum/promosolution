@@ -123,7 +123,7 @@ export default function Example() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl py-32 text-center sm:py-32 lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-1">
             <h1 className="mx-auto max-w-4xl font-display text-3xl font-medium tracking-tight text-slate-900 sm:text-6xl">
-              Ottawa's Premier Source for Custom Apparel &amp; Promotional
+              Ottawa&apos;s Premier Source for Custom Apparel &amp; Promotional
               Accessories
             </h1>
 
@@ -171,7 +171,7 @@ export default function Example() {
               </h2>
 
               <p className="text-lg leading-8 text-gray-600">
-                Elevate your brand with Ottawa's leading provider of custom
+                Elevate your brand with Ottawa&apos;s leading provider of custom
                 apparel and promotional accessories. Our local production
                 facility specializes in DTF Transfers, Precision Embroidery, and
                 Screen Printing. Whether you need personalized attire for
@@ -223,42 +223,42 @@ export default function Example() {
               </div>
             </div>
             <div className="mx-auto grid w-full max-w-xl grid-cols-2 items-center gap-y-12 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:pl-8">
-              <img
+              <Image
                 className="max-h-12 w-full object-contain object-left"
                 src="https://tailwindui.com/img/logos/tuple-logo-white.svg"
                 alt="Tuple"
                 width={105}
                 height={48}
               />
-              <img
+              <Image
                 className="max-h-12 w-full object-contain object-left"
                 src="https://tailwindui.com/img/logos/reform-logo-white.svg"
                 alt="Reform"
                 width={104}
                 height={48}
               />
-              <img
+              <Image
                 className="max-h-12 w-full object-contain object-left"
                 src="https://tailwindui.com/img/logos/savvycal-logo-white.svg"
                 alt="SavvyCal"
                 width={140}
                 height={48}
               />
-              <img
+              <Image
                 className="max-h-12 w-full object-contain object-left"
                 src="https://tailwindui.com/img/logos/laravel-logo-white.svg"
                 alt="Laravel"
                 width={136}
                 height={48}
               />
-              <img
+              <Image
                 className="max-h-12 w-full object-contain object-left"
                 src="https://tailwindui.com/img/logos/transistor-logo-white.svg"
                 alt="Transistor"
                 width={158}
                 height={48}
               />
-              <img
+              <Image
                 className="max-h-12 w-full object-contain object-left"
                 src="https://tailwindui.com/img/logos/statamic-logo-white.svg"
                 alt="Statamic"
@@ -400,7 +400,7 @@ export default function Example() {
                 </div>
                 <div className="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
                   <img
-                    src="https://assets.pcna.com/t_banner_450,f_auto,q_auto/Content/WhiteLabel/2624_WL_HB_industry_occasions"
+                    src="https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&h=604&q=80"
                     alt=""
                     className="aspect-[4/3] w-[24rem] max-w-none rounded-2xl bg-gray-50 object-cover"
                   />
