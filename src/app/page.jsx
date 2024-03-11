@@ -10,6 +10,8 @@ import {
 } from '@heroicons/react/24/outline'
 
 import psLogo from '@/images/logos/ps-logo.svg'
+import psAdidas from '@/images/logos/adidas.svg'
+import psCalloway from '@/images/logos/calloway.svg'
 import psLocation from '@/images/ps-location.png'
 
 const features = [
@@ -225,42 +227,42 @@ export default function Example() {
             <div className="mx-auto grid w-full max-w-xl grid-cols-2 items-center gap-y-12 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:pl-8">
               <Image
                 className="max-h-12 w-full object-contain object-left"
-                src="https://tailwindui.com/img/logos/tuple-logo-white.svg"
+                src={psAdidas}
                 alt="Tuple"
-                width={105}
+                width={130}
                 height={48}
               />
               <Image
                 className="max-h-12 w-full object-contain object-left"
-                src="https://tailwindui.com/img/logos/reform-logo-white.svg"
+                src={psCalloway}
                 alt="Reform"
                 width={104}
                 height={48}
               />
               <Image
                 className="max-h-12 w-full object-contain object-left"
-                src="https://tailwindui.com/img/logos/savvycal-logo-white.svg"
+                src={psAdidas}
                 alt="SavvyCal"
                 width={140}
                 height={48}
               />
               <Image
                 className="max-h-12 w-full object-contain object-left"
-                src="https://tailwindui.com/img/logos/laravel-logo-white.svg"
+                src={psCalloway}
                 alt="Laravel"
                 width={136}
                 height={48}
               />
               <Image
                 className="max-h-12 w-full object-contain object-left"
-                src="https://tailwindui.com/img/logos/transistor-logo-white.svg"
+                src={psAdidas}
                 alt="Transistor"
                 width={158}
                 height={48}
               />
               <Image
                 className="max-h-12 w-full object-contain object-left"
-                src="https://tailwindui.com/img/logos/statamic-logo-white.svg"
+                src={psCalloway}
                 alt="Statamic"
                 width={147}
                 height={48}
@@ -400,7 +402,7 @@ export default function Example() {
                 </div>
                 <div className="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
                   <img
-                    src="https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&h=604&q=80"
+                    src="https://assets.pcna.com/t_banner_450,f_auto,q_auto/Content/WhiteLabel/2624_WL_HB_bags"
                     alt=""
                     className="aspect-[4/3] w-[24rem] max-w-none rounded-2xl bg-gray-50 object-cover"
                   />
