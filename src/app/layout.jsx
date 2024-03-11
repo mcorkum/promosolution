@@ -7,7 +7,7 @@ export const metadata = {
   title: {
     template: '%s - Promo Solutions',
     default:
-      "Promo Solutions - Ottawa's Premier Source for Custom Apparel &amp; Promotional Accessories",
+      "Promo Solution - Ottawa's Premier Source for Custom Apparel & Promotional Accessories",
   },
   description: 'Description here',
 }
