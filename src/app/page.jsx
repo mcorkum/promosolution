@@ -258,7 +258,7 @@ export default function Example() {
                 Experience the Promo Solution Difference
               </h2>
 
-              <p className="text-lg leading-8 text-gray-600">
+              <p className="text-lg leading-8 text-ps-black">
                 Elevate your brand with Ottawa&apos;s leading provider of custom
                 apparel and promotional accessories. Our local production
                 facility specializes in DTF Transfers, Precision Embroidery, and
@@ -294,7 +294,7 @@ export default function Example() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="grid grid-cols-1 items-center gap-x-8 gap-y-16 lg:grid-cols-2">
             <div className="mx-auto w-full max-w-xl lg:mx-0">
-              <h2 className="font-display text-4xl font-bold tracking-tight text-white">
+              <h2 className="text-4xl font-bold tracking-tight text-white">
                 Imagine your logo on the brands you love
               </h2>
               <p className="mt-6 text-lg leading-8 text-white">
@@ -368,7 +368,7 @@ export default function Example() {
               <p className="mt-2 text-4xl font-bold tracking-tight text-ps-black sm:text-4xl">
                 Your one-stop shop for custom branded apparel
               </p>
-              <p className="mt-6 text-base leading-7 text-ps-black">
+              <p className="ext-lg mt-6 leading-8 text-ps-black">
                 Nothing is outsourced! We’ve streamlined the process to be able
                 to deliver this all under our world-class printing facility.
                 Every order is carefully reviewed by our printing experts to
@@ -451,7 +451,7 @@ export default function Example() {
                 Experience the perfect blend of quality and affordability that
                 you won’t find anywhere else.
               </h2>
-              <p className="my-6 text-xl leading-8 text-ps-black">
+              <p className="text-large my-6 leading-8 text-ps-black">
                 Our products are designed for durability and comfort, ensuring
                 your team looks sharp without breaking the bank.
               </p>
