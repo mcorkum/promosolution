@@ -748,7 +748,14 @@ export default function Example() {
           </div>
           <div className="mt-8 md:order-1 md:mt-0">
             <p className="text-center text-sm leading-5 text-gray-500">
-              &copy; 2023 Promo Soltuion | Terms &amp; Policies | Accessibility
+              &copy; 2023 Promo Soltuion &nbsp;&middot;&nbsp;
+              <a href="#" className="text-gray-500 hover:text-gray-400">
+                Terms &amp; Policies
+              </a>
+              &nbsp;&middot;&nbsp;
+              <a href="#" className="text-gray-500 hover:text-gray-400">
+                Accessibility
+              </a>
             </p>
           </div>
         </div>
